@@ -7,7 +7,8 @@
 
 ### AIM: The aim of this project is to use demographic data like age, region and marital status to predict which service group a new or unknown customer belongs to .
 
-#### DATA DESCRIPTION: This dataset contains customer records from a telecommunication company, with demographic and service related attributes.
+#### DATA DESCRIPTION: This dataset from IBM's Cloud Object Storage service contains customer records from a telecommunication company, with demographic and service related attributes.\
+- Data source: https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/teleCust1000t.csv
 - Total Samples: 1000 customer records
 - Number of features: There are 12 features (including the target variables ‘custcat’)
 
