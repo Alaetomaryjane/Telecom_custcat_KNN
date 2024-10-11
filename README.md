@@ -39,3 +39,5 @@
 
 #### Conclusion:
 In this project, we used the K-Nearest Neighbors (KNN) algorithm to classify customer categories. The evaluation showed that while the training accuracy was 50.25%, the model’s test accuracy ranged from 31% to 34%. This indicates potential overfitting, meaning the model may perform well on the training data but struggles to generalize to new, unseen data.
+
+![image](https://github.com/user-attachments/assets/3a0e44ce-e8b0-4a93-819d-dfd9e29ab8e3)
